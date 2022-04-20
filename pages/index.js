@@ -50,7 +50,7 @@ export default function Home() {
 						University Stanislaus.
 					</p>
 					<p className={styles.code_container}>
-						💼 I am an incoming Information Security Intern at Apple!
+						💼 I be cold
 					</p>
 					<p className={styles.code_container}>
 						💬 Feel free to talk to me about anything that you are passionate about.
